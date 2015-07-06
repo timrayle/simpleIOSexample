@@ -13,6 +13,7 @@
 		94C9E5011B4AF00400F3FFC3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94C9E5001B4AF00400F3FFC3 /* Images.xcassets */; };
 		94C9E5041B4AF00400F3FFC3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 94C9E5021B4AF00400F3FFC3 /* LaunchScreen.xib */; };
 		94C9E5101B4AF00400F3FFC3 /* imageHideTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C9E50F1B4AF00400F3FFC3 /* imageHideTests.swift */; };
+		94C9E51A1B4AF13200F3FFC3 /* codevana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94C9E5191B4AF13200F3FFC3 /* codevana.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		94C9E5091B4AF00400F3FFC3 /* imageHideTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = imageHideTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		94C9E50E1B4AF00400F3FFC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		94C9E50F1B4AF00400F3FFC3 /* imageHideTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageHideTests.swift; sourceTree = "<group>"; };
+		94C9E5191B4AF13200F3FFC3 /* codevana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = codevana.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				94C9E4FB1B4AF00400F3FFC3 /* ViewController.swift */,
 				94C9E4FD1B4AF00400F3FFC3 /* Main.storyboard */,
 				94C9E5001B4AF00400F3FFC3 /* Images.xcassets */,
+				94C9E5191B4AF13200F3FFC3 /* codevana.jpg */,
 				94C9E5021B4AF00400F3FFC3 /* LaunchScreen.xib */,
 				94C9E4F71B4AF00400F3FFC3 /* Supporting Files */,
 			);
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94C9E51A1B4AF13200F3FFC3 /* codevana.jpg in Resources */,
 				94C9E4FF1B4AF00400F3FFC3 /* Main.storyboard in Resources */,
 				94C9E5041B4AF00400F3FFC3 /* LaunchScreen.xib in Resources */,
 				94C9E5011B4AF00400F3FFC3 /* Images.xcassets in Resources */,
